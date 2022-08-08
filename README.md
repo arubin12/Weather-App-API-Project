@@ -6,7 +6,7 @@ In order to run this project, download or clone the repository and run index.htm
 Examples:
 
 (Night/Cloud)
-![image](https://user-images.githubusercontent.com/85897343/183460749-6a81587c-e9bc-4b8f-b7f2-3ba2b40f6642.png)
+![image](https://user-images.githubusercontent.com/85897343/183460749-6a81587c-e9bc-4b8f-b7f2-3ba2b40f6642.png =250x400)
 
 (Night/Rain)
 ![image](https://user-images.githubusercontent.com/85897343/183460003-8fae47b6-0066-4c29-a65a-09fb8f0c7baf.png)
